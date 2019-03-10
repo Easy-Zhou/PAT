@@ -11,7 +11,7 @@ import os
 num = input('请输入学号：')
 name = input('请输入姓名：')
 print(os.getcwd())
-read_file_dirs = input('请输入要修改文件扩展名的路径,若有多个文件夹以空格隔开：').split(' ')
+read_file_dirs = input('请输入要修改文件扩展的路径,若有多个文件夹以空格隔开：').split(' ')
 
 for read_file_dir in read_file_dirs:
     if os.path.exists(read_file_dir) and os.path.isdir(read_file_dir):

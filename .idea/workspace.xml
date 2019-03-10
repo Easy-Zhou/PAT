@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="261491c8-b95e-4e4c-8e10-24da5c51866b" name="Default Changelist" comment="" />
+    <list default="true" id="261491c8-b95e-4e4c-8e10-24da5c51866b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/123.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicLevel/fillInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fillInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tres.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1037.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1046.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1051.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1056.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1057.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1063.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1067.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验1/AC-16211160127-周易- 题号1071.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验1/AC-16211160127-周易- 题号1081.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验1/AC-16211160127-周易- 题号1082.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PAT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PAT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicLevel/1004 成绩排名.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicLevel/1004 成绩排名.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicLevel/renameFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicLevel/renameFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/无人机/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/无人机/demo.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,55 +30,106 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PAT$1006_.coverage" NAME="1006 换个格式输出整数 Coverage Results" MODIFIED="1551832389859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$renameFile.coverage" NAME="renameFile Coverage Results" MODIFIED="1552150989222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PAT$1017_AB.coverage" NAME="1017 A除以B Coverage Results" MODIFIED="1551832435128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$1012_.coverage" NAME="1012 数字分类 Coverage Results" MODIFIED="1551945746996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$1026_.coverage" NAME="1026 程序运行时间 Coverage Results" MODIFIED="1551952925250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$fillInfo__1_.coverage" NAME="fillInfo (1) Coverage Results" MODIFIED="1552199061559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PAT$demo.coverage" NAME="demo Coverage Results" MODIFIED="1552123246300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/无人机" />
+    <SUITE FILE_PATH="coverage/PAT$1033_.coverage" NAME="1033 旧键盘打字 Coverage Results" MODIFIED="1552148361065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$fillInfo.coverage" NAME="fillInfo Coverage Results" MODIFIED="1552152719989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$1001__3n_1_.coverage" NAME="1001 害死人不偿命的(3n+1)猜想 Coverage Results" MODIFIED="1551341341998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B" />
     <SUITE FILE_PATH="coverage/PAT$1002_.coverage" NAME="1002 写出这个数 Coverage Results" MODIFIED="1551342363533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B" />
+    <SUITE FILE_PATH="coverage/PAT$1005__3n_1_.coverage" NAME="1005 继续(3n+1)猜想 Coverage Results" MODIFIED="1551626699038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$1076_Wifi.coverage" NAME="1076 Wifi密码 Coverage Results" MODIFIED="1551625042064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$1014_.coverage" NAME="1014 福尔摩斯的约会 Coverage Results" MODIFIED="1552148344196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$1016_A_B.coverage" NAME="1016 部分A+B Coverage Results" MODIFIED="1551833970555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$1008_.coverage" NAME="1008 数组元素循环右移问题 Coverage Results" MODIFIED="1551837036533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
     <SUITE FILE_PATH="coverage/PAT$1091_N_.coverage" NAME="1091 N-自守数 Coverage Results" MODIFIED="1551596594132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
     <SUITE FILE_PATH="coverage/PAT$1004_.coverage" NAME="1004 成绩排名 Coverage Results" MODIFIED="1551623586740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$1036_.coverage" NAME="1036 跟奥巴马一起编程 Coverage Results" MODIFIED="1551955034076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
+    <SUITE FILE_PATH="coverage/PAT$1023_.coverage" NAME="1023 组个最小数 Coverage Results" MODIFIED="1551947871568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasicLevel" />
     <SUITE FILE_PATH="coverage/PAT$1003_.coverage" NAME="1003 我要通过 Coverage Results" MODIFIED="1551342536211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B" />
-    <SUITE FILE_PATH="coverage/PAT$1001__3n_1_.coverage" NAME="1001 害死人不偿命的(3n+1)猜想 Coverage Results" MODIFIED="1551341341998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/B" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BasicLevel/1001 害死人不偿命的(3n+1)猜想.py">
+        <entry file="file://$PROJECT_DIR$/BasicLevel/1012 数字分类.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="379">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BasicLevel/1002 写出这个数.py">
+        <entry file="file://$PROJECT_DIR$/BasicLevel/1014 福尔摩斯的约会.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="594">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BasicLevel/1003 我要通过.py">
+        <entry file="file://$PROJECT_DIR$/无人机/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="242">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <element signature="e#151#164#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BasicLevel/1091 N-自守数.py">
+        <entry file="file://$PROJECT_DIR$/BasicLevel/1033 旧键盘打字.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicLevel/1004 成绩排名.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicLevel/renameFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BasicLevel/1004 成绩排名.py">
+        <entry file="file://$PROJECT_DIR$/fillInfo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="477">
+              <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+              <folding>
+                <element signature="e#155#166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fill.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,6 +143,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -82,13 +157,34 @@
         <option value="$PROJECT_DIR$/B/1003 我要通过.py" />
         <option value="$PROJECT_DIR$/BasicLevel/1003 我要通过.py" />
         <option value="$PROJECT_DIR$/BasicLevel/1091 N-自守数.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1076 Wifi密码.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1005 继续(3n+1)猜想.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1006 换个格式输出整数.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1017 A除以B.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1011 A+B 和 C.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1016 部分A+B.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1008 数组元素循环右移问题.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1012 数字分类.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1023 组个最小数.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1026 程序运行时间.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1036 跟奥巴马一起编程.py" />
+        <option value="$PROJECT_DIR$/无人机/demo.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1014 福尔摩斯的约会.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/1033 旧键盘打字.py" />
         <option value="$PROJECT_DIR$/BasicLevel/1004 成绩排名.py" />
+        <option value="$PROJECT_DIR$/renameFile.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/renameFile.py" />
+        <option value="$PROJECT_DIR$/BasicLevel/fillInfo.py" />
+        <option value="$PROJECT_DIR$/fillInfo.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1200" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -108,6 +204,20 @@
               <item name="PAT" type="462c0819:PsiDirectoryNode" />
               <item name="BasicLevel" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PAT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAT" type="462c0819:PsiDirectoryNode" />
+              <item name="作业1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAT" type="462c0819:PsiDirectoryNode" />
+              <item name="实验1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -119,6 +229,21 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/BasicLevel" />
+      <recent name="$PROJECT_DIR$/test2" />
+      <recent name="$PROJECT_DIR$/BasicLevel/test2" />
+      <recent name="$PROJECT_DIR$/BasicLevel/test1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/实验1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/BasicLevel" />
+      <recent name="$PROJECT_DIR$/test1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,74 +257,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1004 成绩排名">
-    <configuration name="1001 害死人不偿命的(3n+1)猜想" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B/1001 害死人不偿命的(3n+1)猜想.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1002 写出这个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B/1002 写出这个数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1003 我要通过" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B/1003 我要通过.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1004 成绩排名" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.fillInfo (1)">
+    <configuration name="1014 福尔摩斯的约会" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +271,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicLevel/1004 成绩排名.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicLevel/1014 福尔摩斯的约会.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1091 N-自守数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1033 旧键盘打字" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,7 +293,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicLevel/1091 N-自守数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicLevel/1033 旧键盘打字.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fillInfo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件修改/fillInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fillInfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicLevel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicLevel/fillInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="renameFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件修改/renameFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1004 成绩排名" />
-        <item itemvalue="Python.1091 N-自守数" />
-        <item itemvalue="Python.1003 我要通过" />
-        <item itemvalue="Python.1002 写出这个数" />
-        <item itemvalue="Python.1001 害死人不偿命的(3n+1)猜想" />
+        <item itemvalue="Python.fillInfo (1)" />
+        <item itemvalue="Python.fillInfo" />
+        <item itemvalue="Python.renameFile" />
+        <item itemvalue="Python.1033 旧键盘打字" />
+        <item itemvalue="Python.1014 福尔摩斯的约会" />
       </list>
     </recent_temporary>
   </component>
@@ -263,80 +388,111 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551339272897</updated>
-      <workItem from="1551339274383" duration="8277000" />
+      <workItem from="1551339274383" duration="18250000" />
+      <workItem from="1551876383008" duration="1229000" />
+      <workItem from="1551943969596" duration="22214000" />
     </task>
+    <task id="LOCAL-00001" summary="1033">
+      <created>1552148458049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552148458049</updated>
+    </task>
+    <task id="LOCAL-00002" summary="文件重命名">
+      <created>1552150801370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552150801370</updated>
+    </task>
+    <task id="LOCAL-00003" summary="文件重命名修改">
+      <created>1552151272455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552151272455</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8277000" />
+    <option name="totallyTimeSpent" value="41693000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32920355" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32920355" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946752" weight="0.32920355" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.32920355" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32920355" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1033" />
+    <MESSAGE value="文件重命名" />
+    <MESSAGE value="文件重命名修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件重命名修改" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BasicLevel/1001 害死人不偿命的(3n+1)猜想.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BasicLevel/1091 N-自守数.py</url>
           <line>13</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicLevel/1006 换个格式输出整数.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicLevel/1014 福尔摩斯的约会.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicLevel/1014 福尔摩斯的约会.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicLevel/renameFile.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/B/TTT.py">
+    <entry file="file://$PROJECT_DIR$/B/TTT.py" />
+    <entry file="file://$PROJECT_DIR$/B/DGD.py" />
+    <entry file="file://$PROJECT_DIR$/B/DDD.py" />
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1003 我要通过.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B/DGD.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B/DDD.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicLevel/1001 害死人不偿命的(3n+1)猜想.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -347,13 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicLevel/1003 我要通过.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BasicLevel/1091 N-自守数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -361,10 +510,174 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicLevel/1004 成绩排名.py">
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1076 Wifi密码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="7" selection-start-line="8" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1005 继续(3n+1)猜想.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1017 A除以B.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1016 部分A+B.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1008 数组元素循环右移问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1001 害死人不偿命的(3n+1)猜想.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1006 换个格式输出整数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" selection-start-line="8" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1011 A+B 和 C.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1023 组个最小数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1026 程序运行时间.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1036 跟奥巴马一起编程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/1978755682/_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19292">
+          <caret line="877" column="13" lean-forward="true" selection-start-line="877" selection-start-column="13" selection-end-line="877" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1012 数字分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1014 福尔摩斯的约会.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/无人机/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#151#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1033 旧键盘打字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/1004 成绩排名.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/renameFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicLevel/fillInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#155#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fill.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/PythonClass/lib/python3.6/site-packages/docx/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/PythonClass/lib/python3.6/site-packages/docx/opc/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fillInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding>
+            <element signature="e#155#166#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
