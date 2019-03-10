@@ -16,3 +16,4 @@ grade_list = sorted(grade_list,key=lambda x:(x[2]))
 
 print(grade_list[-1][0],grade_list[-1][1])
 print(grade_list[0][0],grade_list[0][1])
+
