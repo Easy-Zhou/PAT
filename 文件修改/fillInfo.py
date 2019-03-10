@@ -4,9 +4,10 @@
 # @Author  : zhou
 # @File    : fillInfo
 # @Software: PyCharm
-# @Description: 
+# @Description: 填写python PAT实验报告中个人信息
 
 import docx
+from docx.opc import exceptions
 import os
 
 className = input('请输入班级：')
@@ -16,11 +17,12 @@ read_file_dirs = input('请输入要填写信息的文件所在文件夹路径,�
 # filename = input()
 for read_file_dir in read_file_dirs:
     if os.path.exists(read_file_dir) and os.path.isdir(read_file_dir):
+        print(read_file_dir + ":")
         filenames = os.listdir(read_file_dir)
         os.chdir(read_file_dir)
         for filename in filenames:
             portion = os.path.splitext(filename)
-            print(filename, end=':')
+            print(filename, end='：')
             if portion[1] == '.docx':
                 try:
                     doc = docx.Document(filename)
@@ -31,9 +33,9 @@ for read_file_dir in read_file_dirs:
                     cell[5].text = num
                     doc.save(filename)
                     print("修改成功")
+                except exceptions.PackageNotFoundError as e:
+                    print("文件打开失败", e)
                 except Exception as e:
-                    print(e)
-                except docx.opc.exceptions.PackageNotFoundError as e:
                     print(e)
             else:
                 print('文件格式错误')
