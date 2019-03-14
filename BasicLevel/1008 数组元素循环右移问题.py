@@ -5,18 +5,25 @@
 # @File    : 1008 数组元素循环右移问题
 # @Software: PyCharm
 # @Description: 
+#
+# l, n = map(int, input().split(" "))
+# n_list = [int(x) for x in input().split(" ")]
+#
+# if n == 0 or n == l or l == 1 or n % l == 0:
+#     result_list = n_list
+# else:
+#     if n > l:
+#         n = n % l
+#
+#     result_list = n_list[-n:]
+#     result_list.extend(n_list[:l - n])
+# for x in result_list[:-1]:
+#     print(x, end=" ")
+# print(result_list[-1])
 
-l, n = map(int, input().split(" "))
-n_list = [int(x) for x in input().split(" ")]
-
-if n == 0 or n == l or l == 1 or n % l == 0:
-    result_list = n_list
-else:
-    if n > l:
-        n = n % l
-
-    result_list = n_list[-n:]
-    result_list.extend(n_list[:l - n])
-for x in result_list[:-1]:
-    print(x, end=" ")
-print(result_list[-1])
+n = [x for x in input().split()]
+list = [i for i in input().split()]
+x = list[int(n[0]) - int(n[1]):]
+y = list[:int(n[0]) - int(n[1])]
+result = x + y
+print(' '.join(result))
