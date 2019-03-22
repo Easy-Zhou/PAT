@@ -23,7 +23,7 @@ while True:
     if not msg:
         break
     s.sendto(msg,address)
-    time.sleep(secs)
+    print(s.recv(1024).decode('utf-8'))
 s.close()
 
 time.time()

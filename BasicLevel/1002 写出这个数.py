@@ -20,7 +20,7 @@ while sum != 0:
 L.reverse()
 
 for i in range(len(L)):
-    if i == len(L)-1:
+    if i == len(L) - 1:
         print(pinyin[L[i]])
     else:
         print(pinyin[L[i]], end=" ")
