@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="261491c8-b95e-4e4c-8e10-24da5c51866b" name="Default Changelist" comment="16">
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1013 数素数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1019 数字黑洞.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1044 火星数字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1054 求平均值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1059 C语言竞赛.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1062 最简分数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1070 结绳.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1077 互评成绩计算.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1080 MOOC期终成绩.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1092 最好吃的月饼.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicLevel/1094 谷歌的招聘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文件修改/FillInfoAndRename.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/无人机/demo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/zhou.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/zhou.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicLevel/1007 素数对猜想.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicLevel/1007 素数对猜想.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1037.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1046.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1051.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1056.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1057.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1063.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1067.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1071.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1081.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/作业1/AC-16211160127-周易- 题号1082.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验1/AC-16211160127-周易- 题号1071.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验1/AC-16211160127-周易- 题号1081.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验1/AC-16211160127-周易- 题号1082.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件修改/fillInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件修改/fillInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件修改/renameFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件修改/renameFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/无人机/receiveStatus.py" beforeDir="false" afterPath="$PROJECT_DIR$/无人机/receiveStatus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/无人机/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/无人机/socket_server.py" afterDir="false" />
     </list>
@@ -519,7 +489,7 @@
       <workItem from="1552746685738" duration="46681000" />
       <workItem from="1553436903648" duration="178000" />
       <workItem from="1553437098627" duration="11382000" />
-      <workItem from="1553616243203" duration="19130000" />
+      <workItem from="1553616243203" duration="19438000" />
     </task>
     <task id="LOCAL-00001" summary="1033">
       <created>1552148458049</created>
@@ -570,11 +540,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553237559944</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="完成实验1-3及作业1-3要求完成的PAT上的题目">
+      <created>1554220120279</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554220120280</updated>
+    </task>
+    <task id="LOCAL-00009" summary="新增了文件名修改以及文件中表格信息填充功能的py，同时增加了修改文件信息填充的字体与字号">
+      <created>1554220239336</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554220239336</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166777000" />
+    <option name="totallyTimeSpent" value="167085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -636,7 +620,9 @@
     <MESSAGE value="新增无人机的python操作，以及1004题目的更改" />
     <MESSAGE value="完善fillInfo中文件填写功能" />
     <MESSAGE value="作业2" />
-    <option name="LAST_COMMIT_MESSAGE" value="作业2" />
+    <MESSAGE value="完成实验1-3及作业1-3要求完成的PAT上的题目" />
+    <MESSAGE value="新增了文件名修改以及文件中表格信息填充功能的py，同时增加了修改文件信息填充的字体与字号" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增了文件名修改以及文件中表格信息填充功能的py，同时增加了修改文件信息填充的字体与字号" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
