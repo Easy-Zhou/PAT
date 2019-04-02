@@ -16,7 +16,7 @@ read_file_dirs = input('请输入要修改文件扩展的路径,若有多个文�
 for read_file_dir in read_file_dirs:
     if os.path.exists(read_file_dir) and os.path.isdir(read_file_dir):
         files = os.listdir(read_file_dir)  # 列出目录下所有的文件
-        os.chdir(read_file_dir)
+        os.chdir(read_file_dir) # 改变路径
         for filename in files:
             name_l = filename.split('-')
             if len(name_l) == 4:

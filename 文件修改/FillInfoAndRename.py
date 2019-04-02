@@ -1,10 +1,9 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time    : 2019-03-10 01:14
+#!/anaconda3/bin/python
+# @Time    : 2019-04-02 23:38
 # @Author  : zhou
-# @File    : fillInfo
+# @File    : fillInfoAndRename
 # @Software: PyCharm
-# @Description: 填写python PAT实验报告中个人信息
+# @Description: 填写实验报告模板表格中的个人信息以及文件名
 
 import docx
 from docx.opc import exceptions
@@ -43,4 +42,13 @@ for read_file_dir in read_file_dirs:
                     print(e)
             else:
                 print('文件格式错误')
+            name_l = filename.split('-')
+            if len(name_l) == 4:
+                newName = name_l[0] + '-' + num + '-' + name + '-' + name_l[3]
+                os.rename(filename, newName)
+                print(os.path.basename(filename) + ' -> ' + os.path.basename(newName))
+            else:
+                print('not the aim file')
         os.chdir('..')
+    else:
+        print(read_file_dir,"路径不存在或不是一个目录")
