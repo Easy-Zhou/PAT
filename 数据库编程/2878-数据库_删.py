@@ -12,12 +12,11 @@ import configparser
 config = configparser.ConfigParser()
 config.read('configure.ini')
 host = config['db']['host']
-port = config.getint('db','port')
+port = config.getint('db', 'port')
 user = config['db']['user']
 password = config['db']['password']
 database = config['db']['database']
 charset = config['db']['charset']
-
 
 connect = pymysql.connect(host=host,
                           port=port,
@@ -28,7 +27,7 @@ connect = pymysql.connect(host=host,
 
 cursor = connect.cursor()
 sql = "delete from stu where number=%s"
-cursor.executemany(sql,[('1501'),('1505'),('1509')])
+cursor.executemany(sql, [('1501'), ('1505'), ('1509')])
 # cursor.executemany(sql,['1501','1505','1509']) 也可以
 connect.commit()
 cursor.close()

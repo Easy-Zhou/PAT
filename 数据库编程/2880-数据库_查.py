@@ -11,12 +11,11 @@ import configparser
 config = configparser.ConfigParser()
 config.read('configure.ini')
 host = config['db']['host']
-port = config.getint('db','port')
+port = config.getint('db', 'port')
 user = config['db']['user']
 password = config['db']['password']
 database = config['db']['database']
 charset = config['db']['charset']
-
 
 connect = pymysql.connect(host=host,
                           port=port,
