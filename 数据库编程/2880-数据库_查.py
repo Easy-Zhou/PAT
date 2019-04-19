@@ -28,10 +28,10 @@ connect = pymysql.connect(host=host,
 cursor = connect.cursor()
 sql = "select * from stu where number between '1501' and '1509'"
 cursor.execute(sql)
-# cursor.executemany(sql,['1501','1505','1509']) 也可以
+
 rows = cursor.fetchall()
 for row in rows:
     print(row)
-# connect.commit()
+
 cursor.close()
 connect.close()

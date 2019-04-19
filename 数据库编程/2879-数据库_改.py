@@ -28,7 +28,7 @@ connect = pymysql.connect(host=host,
 cursor = connect.cursor()
 sql = "update stu set name=%s where number=%s"
 cursor.executemany(sql,[('李炎黄','1501'),('吕萌萌','1505'),('石灰','1509')])
-# cursor.executemany(sql,['1501','1505','1509']) 也可以
+
 connect.commit()
 cursor.close()
 connect.close()

@@ -6,13 +6,6 @@
 # @Description:
 
 
-#!/anaconda3/bin/python
-# @Time    : 2019-04-18 16:17
-# @Author  : zhou
-# @File    : 2877-数据库_增
-# @Software: PyCharm
-# @Description:
-
 import pymysql
 import configparser
 
