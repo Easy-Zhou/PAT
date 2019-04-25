@@ -4,17 +4,17 @@ import wx
 class MyFrame(wx.Frame):
     def __init__(self):
         super().__init__(parent=None,
-                         title="First",
+                         title="FlexGrid布局",
                          size=(400, 300),
-                         pos=(100, 100))
-
+                         )
+        self.Center()
         panel = wx.Panel(self)
         st1 = wx.StaticText(panel, label="标题：")
         st2 = wx.StaticText(panel, label="作者：")
         st3 = wx.StaticText(panel, label="内容：")
         tc1 = wx.TextCtrl(panel)
         tc2 = wx.TextCtrl(panel)
-        tc3 = wx.TextCtrl(panel)
+        tc3 = wx.TextCtrl(panel, style=wx.TE_MULTILINE)
 
         grid = wx.FlexGridSizer(3, 2, 10, 10)
         grid.AddMany([

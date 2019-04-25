@@ -7,6 +7,12 @@ class MyFrame(wx.Frame):
                          size=(400,300),
                          pos=(100,100))
 
+        panel = wx.Panel(self)
+
+        bt = wx.Button(panel, id=1, label='1')
+        bt.SetSizeWH(500,500)
+
+
 
 class App(wx.App):
     def OnInit(self):
