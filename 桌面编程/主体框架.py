@@ -1,17 +1,17 @@
 import wx
 
+
 class MyFrame(wx.Frame):
     def __init__(self):
         super().__init__(parent=None,
                          title="First",
-                         size=(400,300),
-                         pos=(100,100))
+                         size=(400, 300),
+                         pos=(100, 100))
 
         panel = wx.Panel(self)
 
         bt = wx.Button(panel, id=1, label='1')
-        bt.SetSizeWH(500,500)
-
+        bt.SetSizeWH(500, 500)
 
 
 class App(wx.App):

@@ -26,11 +26,15 @@ connect = pymysql.connect(host=host,
 
 cursor = connect.cursor()
 sql = "select * from stu where number between '1501' and '1509'"
+# sql = "select count(*) from stu"
 cursor.execute(sql)
 
-rows = cursor.fetchall()
-for row in rows:
-    print(row)
+
+# rows = cursor.fetchall()
+rows = cursor.fetchone()
+print(rows)
+# for row in rows:
+#     print(row)
 
 cursor.close()
 connect.close()
