@@ -1,0 +1,22 @@
+/* 创建数据库 */
+create database if not exists mydatabase
+
+/* 创建表 */
+create table if not exists student(
+number varchar(20) primary key,
+name varchar(50) not null,
+sex varchar(2) check (sex in(‘M’,‘F’)),
+math double(4,1),
+english double(4,1),
+computer double(4,1)
+)
+
+/* 插入数据 */
+use mydatabase;
+
+insert into student values ('1502','方花花','F',76.5,80.0,80.0);
+insert into student values ('1507','李要','M',95.0,60.0,83.0);
+insert into student values ('1508','王段','M',92.0,75.0,81.0);
+insert into student values ('1512','刘晓晓','F',77.0,85.0,82.0);
+insert into student values ('1514','蔡阳光','M',99.0,100.0,67.0);
+insert into student values ('1520','黄一一','M',69.0,90.0,100.0);

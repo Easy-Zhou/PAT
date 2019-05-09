@@ -4,16 +4,16 @@
 # @File    : 1822_qq简易聊天(server)
 # @Software: PyCharm
 # @Description:
+import threading
 
 import wx
 import socket
-import threading
 
 
 class MyFrame(wx.Frame):
     def __init__(self):
         super().__init__(parent=None,
-                         title="qq简易聊天，服务端",
+                         title="qq简易聊天，客户端",
                          size=(400, 300),
                          pos=(100, 100))
 
@@ -36,28 +36,26 @@ class MyFrame(wx.Frame):
         self.bkg.SetSizer(self.box2)
 
         self.bt.Bind(wx.EVT_BUTTON, self.btaction)  # 为控件绑定事件和处理函数
+        self.clientSocket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+        self.clientSocket.connect(('localhost', 3333))
 
-        self.serverSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        self.serverSocket.bind(('localhost',3333))
-        self.serverSocket.listen(1)
-        self.clientSocket, addr = self.serverSocket.accept()
-
-    def listenClient(self):
+    def listenServer(self):
         while True:
             msg = self.clientSocket.recv(1024).decode('utf-8')
-            self.tshow.AppendText('客户端 对 服务器端 说：' + msg + '\n')
+            self.tshow.AppendText("服务器端 对 客户端 说：" + msg + "\n")
 
     def btaction(self, event):
         msg = self.tinput.GetValue()
-        self.tshow.AppendText('服务器端 对 客户端 说：'+ msg + "\n")
+        self.tshow.AppendText("客户端 对 服务器端 说：" + msg + "\n")
         self.clientSocket.send(msg.encode('utf-8'))
         self.tinput.SetValue("")
+
 
 class App(wx.App):
     def OnInit(self):
         frame = MyFrame()
         frame.Show()
-        lis = threading.Thread(target=frame.listenClient)
+        lis = threading.Thread(target=frame.listenServer)
         lis.start()
         return True
 

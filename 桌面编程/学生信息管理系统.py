@@ -83,7 +83,7 @@ class TestTable(wx.grid.GridTableBase):
         else:
             self.where = "name like '%" + self.condition + "%'"
         sql = "select count(*) from student where " + self.where
-        self.db = Database('../数据库编程/configure.ini')
+        self.db = Database()
 
         self.rowLength = self.db.query(sql)[0]
         self.colLabels = ["学号", "姓名", "性别", "数学", "英语", "计算机"]
